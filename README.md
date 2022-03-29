@@ -1,6 +1,6 @@
 # Demo
 
-A demo desse projeto está disponível no [aqui](https://jogo-da-velha.herokuapp.com)
+A demo desse projeto está disponível no [aqui](https://jogo-da-velha.herokuapp.com).
 
 # Getting Started with Create React App
 
